@@ -1,0 +1,22 @@
+body{
+    background-image: url("assets/topography.png");
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+#header{
+    background-color: #333333;
+    padding: 50px auto;
+}
+
+div{
+    padding: 0 10%;
+}
+
+a{
+    color: #ff0099;
+}
+
+#link{
+    margin-left: 60%;
+}
